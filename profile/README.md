@@ -39,6 +39,6 @@ We welcome contributions, collaborations, and discussions with researchers, stud
 ---
 
 > 🔗 [University of Exeter](https://www.exeter.ac.uk)  
-> 🧑‍🔬 Lead Investigator: Dr. Zeyu Fu  
-> 📧 Contact: [mmi.lab.uk@gmail.com](mailto:mmi.lab.uk@gmail.com)  
+> 🧑‍🔬 Lead Investigator: Dr Zeyu Fu  
+> 📧 Contact: [z.fu@exeter.ac.uk](mailto:z.fu@exeter.ac.uk)  
 > 🌍 Maintained by the **Multimodal Intelligence Lab**
